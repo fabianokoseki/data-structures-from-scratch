@@ -1,1 +1,1 @@
-Inicial structure
+Initial structure
